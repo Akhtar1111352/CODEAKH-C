@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+int main() {
+    
+  cout << " NAMASTE FROM AKHTAR" << endl;
+  
+  return 0; 
+}
+
+#codebyMMAKHTAR
